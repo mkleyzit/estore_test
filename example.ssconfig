@@ -16,7 +16,7 @@
     <TestConfiguration TestID="f6f3e4b9-3944-4252-bc81-98626dc71d8a" CurrentTestCase="8d007017-d6b3-4e8c-8681-5366957ed682" DataStorageMedium="SQLite" IsCurrent="true">
       <MixWeights LoadGenMixWeights="Local:1" TestObjectMixWeights="estore:1" TestObjectTier="estore:0" />
       <Browsers>
-        <Browser Name="Chrome 64.0" MaxHostConnections="6" MaxTotalConnections="6" ReplaceUserAgent="false" UserAgentString="Mozilla/5.0 (Windows NT 6.1; Win64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36" />
+        <Browser Name="Chrome 69.0" MaxHostConnections="6" MaxTotalConnections="6" ReplaceUserAgent="false" UserAgentString="Mozilla/5.0 (Windows NT 6.1; Win64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36" />
       </Browsers>
       <Networks>
         <Network Name="Gigabit Ethernet" UploadBandwith="1000000" DownloadBandwith="1000000" />
